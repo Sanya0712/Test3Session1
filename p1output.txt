@@ -1,1 +1,9 @@
 
+gcc -g p1original.c
+ ./a.out
+enter the numerator and the denominator:
+1
+2
+1
+4
+1/2 + 1/4 = 6/8 
